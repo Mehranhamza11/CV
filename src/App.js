@@ -9,7 +9,7 @@ function App() {
       <div className="stuff">
         <br /><br />
         <img id='logo-img'src='mehran.jpeg'></img>
-        <h1>Mehran Hamza</h1>
+        <h1>Faizan Ahmad</h1>
         <h5>Mehranhamza8@gmail.com</h5>
         
         <hr />
